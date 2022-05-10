@@ -24,7 +24,7 @@ We expect our community to do the following:
 
 * Do not accuse someone unless you have concrete evidence
 * Do not harass a member for their opinion, or what they do.
-* Do not abuse loopholes within the rules, this will result in 
+* Do not abuse loopholes within the rules, this will result in consequences.
 
 ## 3. Disallowed Topics
 Here are some things that you shouldn't talk about, because it could possibly get you blaclisted from the Myosyn network.
@@ -45,6 +45,8 @@ Each of the levels represent the level of
 ## 5. Reporting Misconduct
 * Copyright infringement
   * If you catch someone infringing our copyright, please let the owners know. We are very understanding to certain pings, and will answer your message as soon as possible. 
+* Harassment
+  * Any level of harassment should be reported to a moderator.
 
 However, if it's primarily a rule issue, report it to the moderators or administrators who are on the server. 
 
